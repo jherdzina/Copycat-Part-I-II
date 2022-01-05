@@ -1,0 +1,53 @@
+.container {
+    padding: 10px
+}
+
+.kitten-accessories {
+    background-color: #FBF6F0;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 10px;
+    padding: 10px;
+    color: #010101;
+}
+
+.row1-kitties {
+    align-content: stretch;
+}
+
+main {
+  align-content:center;
+  font-family: Arial, Arial, Helvetica, sans-serif;
+  padding: 50px;
+    
+}
+
+
+.square-boxes {
+    width: 500px;
+    height: 379px;
+    display: inline-block;
+    
+    
+    
+}
+
+.word-boxes {
+   
+    text-align: center;
+    display: inline-block;
+    background-color: #2A524A;
+    color: #fbfbfb;
+}
+h2 {
+    letter-spacing: 10px;
+}
+
+h3 {
+    color: #887451;
+}
+
+p {
+    text-align: center;
+    padding: 20px;
+    
+}
